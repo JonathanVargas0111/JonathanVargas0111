@@ -1,6 +1,6 @@
 ![alt text](images/logo-banner.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonathanfva92.svg?style=social&label=Twitter)](https://twitter.com/jonathanfva92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jonathan-felipe-vargas-arias) [![Website](https://img.shields.io/badge/Website-devjonathanvargas.vercel.app-green)](https://devjonathanvargas.vercel.app/) [![Medium](https://img.shields.io/badge/Medium-Follow-orange)](https://medium.com/@jonathanvargas_61788) [![Bento](https://img.shields.io/badge/Bento-Profile-red)](https://bento.me/felipe-vargas) [![Howe.bio](https://img.shields.io/badge/Howe.bio-Profile-yellow)](https://www.howe.bio/felipe-vargas)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jonathanfva92.svg?style=social&label=Twitter)](https://x.com/felipevargasx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jonathan-felipe-vargas-arias) [![Website](https://img.shields.io/badge/Website-felipevargas-green)](https://felipevargas.vercel.app/) [![Medium](https://img.shields.io/badge/Medium-Follow-orange)](https://medium.com/@Felipevargasx) [![Bento](https://img.shields.io/badge/Bento-Profile-red)](https://bento.me/felipe-vargas) [![Howe.bio](https://img.shields.io/badge/Howe.bio-Profile-yellow)](https://www.howe.bio/felipe-vargas)
 
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Felipe Vargas</a> 👋</h1>
@@ -15,7 +15,7 @@ Ingeniero de Sistemas | Desarrollador Front-end | JavaScript | React js
 
 ## <span style="color:#0ea5e9">Tecnologías</span>  
 
-JavaScript | React.js | Node.js | Express | AWS | Redux | SQL | MongoDB | Git | GitHub
+JavaScript | React.js | NextJs | Node.js | Express | AWS | Redux | SQL | MongoDB | Git | GitHub
 
 ## <span style="color:#0ea5e9">Explorando Tecnologías</span>  
 
