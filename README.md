@@ -9,9 +9,10 @@
 Ingeniero de Sistemas | Desarrollador Front-end | JavaScript | React js
 
 📍 Bogotá, Distrito Capital, Colombia  
-📧 [Correo electrónico](correo@example.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jonathanvargas)  
+🌍 [felipevargas](https://felipevargas.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/felipevargasarias/)  
 🔗 [GitHub](https://github.com/jonathanvargas0111)  
+📧 [Correo electrónico](jonathanfelipe0111@hotmail.com)  
 
 ## <span style="color:#0ea5e9">Tecnologías</span>  
 
